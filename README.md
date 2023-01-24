@@ -5,7 +5,7 @@ Happy to share my accomplishment with you all! I successfully completed The Temp
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Screenshot](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -13,13 +13,21 @@ Happy to share my accomplishment with you all! I successfully completed The Temp
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
-![]()
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
+![](images/5.png)
+![](images/6.png)
+![](images/7.png)
+![](images/8.png)
+![](images/9.png)
 
 ### Links
 
-- Live Site URL: [Elzero Dashboard](https://mahirrochdi.github.io/ElzeroDashboard/)
+- Live Site URL: [Mahir-ElzeroDashboard](https://mahirrochdi.github.io/ElzeroDashboard/)
 - Template Source : [Template 4](https://elzero.org/html-css-template-4-preview/)
 ## My process
 
